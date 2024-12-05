@@ -1,0 +1,33 @@
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\bin\Debug\net8.0\appsettings.Development.json
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\bin\Debug\net8.0\appsettings.json
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\bin\Debug\net8.0\Gerenciador de tarefas.exe
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\bin\Debug\net8.0\Gerenciador de tarefas.deps.json
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\bin\Debug\net8.0\Gerenciador de tarefas.runtimeconfig.json
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\bin\Debug\net8.0\Gerenciador de tarefas.dll
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\bin\Debug\net8.0\Gerenciador de tarefas.pdb
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\Gerenciador de tarefas.csproj.AssemblyReference.cache
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\Gerenciador de tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\Gerenciador de tarefas.AssemblyInfoInputs.cache
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\Gerenciador de tarefas.AssemblyInfo.cs
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\Gerenciador de tarefas.csproj.CoreCompileInputs.cache
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\Gerenciador de tarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\Gerenciador de tarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\Gerenciador de tarefas.sourcelink.json
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\staticwebassets\msbuild.Gerenciador de tarefas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\staticwebassets\msbuild.build.Gerenciador de tarefas.props
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Gerenciador de tarefas.props
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Gerenciador de tarefas.props
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\scopedcss\bundle\Gerenciador de tarefas.styles.css
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\Gerencia.5937B238.Up2Date
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\Gerenciador de tarefas.dll
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\refint\Gerenciador de tarefas.dll
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\Gerenciador de tarefas.pdb
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\Gerenciador de tarefas.genruntimeconfig.cache
+C:\Projetos\Gerenciador-de-tarefas-API\Gerenciador de tarefas\obj\Debug\net8.0\ref\Gerenciador de tarefas.dll
