@@ -1,79 +1,73 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    
-</head>
-<body>
+<div align="center">
 
-<h1>Gerenciador de Tarefas</h1>
-    <p>Este é um projeto de API para um sistema de Gerenciador de Tarefas desenvolvido em C# utilizando ASP.NET Core.</p>
+# 🗂️ Gerenciador de Tarefas API
 
-<h2>Funcionalidades</h2>
-    <ul>
-        <li>Criar uma tarefa</li>
-        <li>Visualizar todas as tarefas</li>
-        <li>Visualizar uma tarefa específica pelo ID</li>
-        <li>Editar informações de uma tarefa</li>
-        <li>Excluir uma tarefa</li>
-    </ul>
+**API REST em ASP.NET Core para criar, consultar, editar e excluir tarefas.**
 
-<h2>Modelo de Tarefa</h2>
-    <pre><code>
-    {
-        "id": 1,
-        "name": "Nome da Tarefa",
-        "description": "Descrição da tarefa",
-        "priority": "alta", // alta, média, baixa
-        "dueDate": "2023-12-31T23:59:59",
-        "status": "em andamento" // concluída, em andamento, aguardando
-    }
-    </code></pre>
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-<h2>Endpoints</h2>
-    <h3>1. Criar uma tarefa</h3>
-    <p><strong>POST</strong> /api/tasks</p>
-    <p>Corpo da requisição:</p>
-    <pre><code>
-    {
-        "name": "Nome da Tarefa",
-        "description": "Descrição da tarefa",
-        "priority": "alta",
-        "dueDate": "2023-12-31T23:59:59",
-        "status": "aguardando"
-    }
-    </code></pre>
+</div>
 
-<h3>2. Visualizar todas as tarefas</h3>
-    <p><strong>GET</strong> /api/tasks</p>
+## 💡 Sobre
 
-<h3>3. Visualizar uma tarefa específica</h3>
-    <p><strong>GET</strong> /api/tasks/{id}</p>
+API para um gerenciador de tarefas simples. Cada tarefa tem nome, descrição, prioridade, data de entrega e status; os dados ficam em uma lista em memória (reiniciar a aplicação apaga tudo). Projeto de estudo de C#/.NET.
 
-<h3>4. Editar uma tarefa</h3>
-    <p><strong>PUT</strong> /api/tasks/{id}</p>
-    <p>Corpo da requisição:</p>
-    <pre><code>
-    {
-        "name": "Nome Atualizado",
-        "description": "Descrição Atualizada",
-        "priority": "média",
-        "dueDate": "2023-12-31T23:59:59",
-        "status": "concluída"
-    }
-    </code></pre>
+## ✨ Funcionalidades
 
-<h3>5. Excluir uma tarefa</h3>
-    <p><strong>DELETE</strong> /api/tasks/{id}</p>
+- Criar tarefa
+- Listar todas as tarefas
+- Buscar tarefa pelo ID
+- Editar tarefa
+- Excluir tarefa
+- Documentação via Swagger (ambiente de desenvolvimento)
 
- <h2>Como Executar o Projeto</h2>
-    <ol>
-        <li>Clone o repositório: <code>git clone <URL_DO_REPOSITORIO></code></li>
-        <li>Entre na pasta do projeto: <code>cd GerenciadorTarefas</code></li>
-        <li>Execute o projeto: <code>dotnet run</code></li>
-    </ol>
+Exemplo de tarefa:
 
-<h2>Considerações Finais</h2>
-    <p>Este projeto é uma demonstração de como criar uma API RESTful simples utilizando ASP.NET Core. Sinta-se à vontade para contribuir e melhorar o projeto
+```json
+{
+  "name": "Nome da tarefa",
+  "description": "Descrição da tarefa",
+  "priority": "alta",
+  "dueDate": "2024-12-31T23:59:59",
+  "status": "em andamento"
+}
+```
+
+## 🛠️ Tecnologias
+
+- C# / ASP.NET Core Web API (.NET 8)
+- Swashbuckle (Swagger)
+
+## 📌 Endpoints
+
+O controller se chama `TaksController`, por isso a rota base é `/api/Taks`.
+
+| Método | Rota | Descrição |
+|--------|------|-----------|
+| `POST` | `/api/Taks` | Cria uma tarefa |
+| `GET` | `/api/Taks` | Lista as tarefas |
+| `GET` | `/api/Taks/{id}` | Busca uma tarefa pelo ID |
+| `PUT` | `/api/Taks/{id}` | Atualiza uma tarefa |
+| `DELETE` | `/api/Taks/{id}` | Remove uma tarefa |
+
+## 🚀 Como rodar
+
+Requer .NET 8 SDK.
+
+```bash
+git clone https://github.com/KevinLopes23/Gerenciador-de-tarefas-API.git
+cd "Gerenciador-de-tarefas-API/Gerenciador de tarefas"
+dotnet run
+```
+
+O Swagger fica em `http://localhost:5073/swagger`.
+
+## 📄 Licença
+
+Distribuído sob a licença MIT. Veja [LICENSE](LICENSE).
+
+## 👤 Autor
+
+Feito por [Kevin Lopes](https://github.com/KevinLopes23)
